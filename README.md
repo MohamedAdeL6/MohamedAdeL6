@@ -11,7 +11,6 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-<br>
 
 - 🏢 I'm a Front-end Web Developer 
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
@@ -20,7 +19,6 @@
  <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 
 <br>
-
 
 ### Connect with Me :
 
@@ -35,13 +33,9 @@
 <a href="https://api.whatsapp.com/send/?phone=201153527576&text&type=phone_number&app_absent=0" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-28a219?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
 </a>
-  
-                                                                                                                  
+                                                                                                                 
 <br>
-                                                                                                                  
-<br>
-                                                                                                                  
-
+                                                             
 ### 🛠 &nbsp;Tech Stack
 
                                                                                                                  
@@ -99,8 +93,6 @@
 
 <br>
                                                                                                                   
-<br>
-
 <!-- -------------  Most useage Language ------------ -->
 ![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=yousefdergham&show_icons=true&theme=radical&border_radius=10&card_width=450) 
 

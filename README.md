@@ -111,11 +111,11 @@
 <br>
 
 <!-- ------- Start Readme stats ------ -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdel02&theme=radical&border_radius=10)&nbsp;
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdel02&theme=radical&border_radius=10)&nbsp; --->
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAdel02&count_private=true&theme=radical&border_radius=10&card_width=450)
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAdel02&count_private=true&theme=radical&border_radius=10&card_width=450) -->
 
 <br>
  

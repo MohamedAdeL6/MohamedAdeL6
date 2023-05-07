@@ -106,7 +106,7 @@
 
 <br>
 
-![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAdel6&count_private=true&theme=radical&border_radius=10&card_width=450) 
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=MohamedAdel6&count_private=true&theme=radical&border_radius=10&card_width=450) -->
 
 <br>
  

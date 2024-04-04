@@ -19,7 +19,7 @@
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ I can help with BackEnd & Front End.
 - 👨‍💻 All of my projects are available at https://github.com/MohamedAdeL6.
-- 📫 How to reach me https://www.linkedin.com/in/beyzakeser.
+- 📫 How to reach me https://www.linkedin.com/in/mohamed-adel-047174241/.
 - 🤝🏻 I am open to job offers.
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->

@@ -18,7 +18,7 @@
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
   <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 
-### Connect with Me :
+## 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -34,7 +34,7 @@
                                                                                                                  
 <br>
                                                              
-### 🛠 &nbsp;Tech Stack
+## 💻 Tech Stack:
 
                                                                                                                  
 <!-- ----------   Skills   ------------ -->
@@ -90,6 +90,8 @@
 -->
 
 <br>
+
+## 📊 GitHub Stats:
                                                                                                                   
 <!-- -------------  Most useage Language ------------ -->
 ![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAdel6&show_icons=true&theme=radical&border_radius=10&card_width=450) 

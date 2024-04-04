@@ -12,11 +12,17 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
+# 💫 About Me:
+
 - 🏢 I'm a Front-end Web Developer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🌱 I'm constantly learning and exploring new technologies to improve my skills in frontend technologies.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+- ⚡ I can help with BackEnd & Front End.
+- 👨‍💻 All of my projects are available at https://github.com/MohamedAdeL6.
+- 📫 How to reach me https://www.linkedin.com/in/beyzakeser.
+- 🤝🏻 I am open to job offers.
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
-  <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
+<!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 
 ## 🌐 Socials:
 
@@ -34,7 +40,7 @@
                                                                                                                  
 <br>
                                                              
-## 💻 Tech Stack:
+# 💻 Tech Stack:
 
                                                                                                                  
 <!-- ----------   Skills   ------------ -->
@@ -91,7 +97,7 @@
 
 <br>
 
-## 📊 GitHub Stats:
+# 📊 GitHub Stats:
                                                                                                                   
 <!-- -------------  Most useage Language ------------ -->
 ![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAdel6&show_icons=true&theme=radical&border_radius=10&card_width=450) 

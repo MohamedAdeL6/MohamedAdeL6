@@ -33,14 +33,13 @@
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-28a219?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
 </a>
 
- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%430077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) 
+<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) -->
 
                                                                                                           
 <br>
                                                              
 # 💻 Tech Stack:
-
-                                                                                                                 
+                                                                                                           
 <!-- ----------   Skills   ------------ -->
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -58,6 +57,12 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
+
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="tailwind" width="40" height="40"/> 
+</a>&nbsp;&nbsp;
+
+
                                                                                                                      
 <!--   
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 

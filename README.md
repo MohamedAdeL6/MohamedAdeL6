@@ -39,7 +39,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) -->
 
-<br><br>   
+<br>   
 
 # 💻 Tech Stack :
                                                                                                            
@@ -93,7 +93,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-36465d?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 -->
 
-<br><br>
+<br>
 
 # 📊 GitHub Stats :
                                                                                                                   

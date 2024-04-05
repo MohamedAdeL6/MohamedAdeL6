@@ -29,7 +29,7 @@
 </a>
 
 <a href="https://www.facebook.com/profile.php?id=100006096937564" target="_blank">
-  <img src="https://img.shields.io/badge/-Mohamed%20Adel-1877F2?style=flat-square&logo=Facebook&logoColor=white"&label=" alt="Facebook" />
+  <img src="https://img.shields.io/badge/-Mohamed%20Adel-1877F2?style=social&logo=Facebook&logoColor=white"&label=" alt="Facebook" />
 </a>
                                                                                                                                                     
 <a href="https://api.whatsapp.com/send/?phone=201153527576&text&type=phone_number&app_absent=0" target="_blank">

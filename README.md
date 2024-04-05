@@ -9,8 +9,8 @@
   end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" ></a>
 </p> -->
 
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
-</h1>
+<p align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)
+</p>
 
 
 

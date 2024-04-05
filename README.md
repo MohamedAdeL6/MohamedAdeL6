@@ -7,7 +7,8 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg" style="algin='center'; width='100%' "> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" ></a>
 </p> 
 
-<!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
+##
+
 # 💫 About Me:
 
 - 🏢 I'm a Front-end Web Developer 

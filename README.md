@@ -27,7 +27,7 @@
 
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -43,9 +43,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) -->
 
-                                                                                                          
-<br>
-                                                             
+                                                                                                                                                               
 # 💻 Tech Stack:
                                                                                                            
 <!-- ----------   Skills   ------------ -->
@@ -103,7 +101,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-36465d?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 -->
 
-<br>
 
 # 📊 GitHub Stats:
                                                                                                                   

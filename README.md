@@ -39,7 +39,7 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) -->
 
-<br>    
+<br><br>   
 
 # 💻 Tech Stack :
                                                                                                            
@@ -60,10 +60,7 @@
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
-
-
-
-                                                                                                                     
+                                                                                                                    
 <!--   
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> 
@@ -98,7 +95,7 @@
 ![GitHub](https://img.shields.io/badge/GitHub-36465d?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 -->
 
-<br>
+<br><br>
 
 # 📊 GitHub Stats :
                                                                                                                   

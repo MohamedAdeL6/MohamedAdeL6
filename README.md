@@ -10,7 +10,7 @@
 </p> -->
 
 
-# <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;)](https://git.io/typing-svg)</h1>
+# <h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&vCenter=true&random=false&width=435&lines=Front-end+Developer)](https://git.io/typing-svg)</h1>
 
 
 

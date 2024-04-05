@@ -36,7 +36,7 @@
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-28a219?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
 </a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&logoSize=300)](https://www.linkedin.com/in/mohamed-adel-047174241)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&Size=300)](https://www.linkedin.com/in/mohamed-adel-047174241)
 
 <br><br> 
 

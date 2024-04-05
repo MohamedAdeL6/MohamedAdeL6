@@ -25,7 +25,7 @@
 
 # 🌐 Socials :
 
-&nbsp;<a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
+<a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
 

@@ -7,8 +7,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=500&height=45&color=FF204E&vCenter=true&size=32" ></a>
 </h1> 
  
-<br><br><br><br>
-
+<br><br>
 
 # 💫 About Me :
 
@@ -22,7 +21,7 @@
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 
-
+<br><br>
 
 # 🌐 Socials :
 
@@ -40,7 +39,8 @@
 
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) -->
 
-                                                                                                                                                               
+<br><br>    
+
 # 💻 Tech Stack :
                                                                                                            
 <!-- ----------   Skills   ------------ -->

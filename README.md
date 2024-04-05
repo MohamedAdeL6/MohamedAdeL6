@@ -25,9 +25,10 @@
 
 # 🌐 Socials :
 
-&nbsp;&nbsp;&nbsp; <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
-     <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-   </a>
+&nbsp;&nbsp;&nbsp; 
+<a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
+  <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+</a>
 
 <a href="https://www.facebook.com/profile.php?id=100006096937564" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"&label=" alt="Facebook" />

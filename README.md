@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
+#
 
 # 💫 About Me:
 
@@ -58,9 +59,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
 </a>&nbsp;&nbsp;
 
-<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="tailwind" width="40" height="40"/> 
-</a>&nbsp;&nbsp;
 
 
                                                                                                                      

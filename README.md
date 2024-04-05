@@ -9,7 +9,7 @@
   end%20Web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22" ></a>
 </p> -->
 
- <p align="center"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;Second+line+of+text)](https://git.io/typing-svg) </p>
+  [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;Second+line+of+text)](https://git.io/typing-svg) 
 
 # 💫 About Me:
 

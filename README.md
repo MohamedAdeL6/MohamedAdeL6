@@ -10,7 +10,7 @@
 
 
 
-# 💫 About Me:
+# 💫 About Me :
 
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm constantly learning and exploring new technologies to improve my skills in frontend technologies.
@@ -24,7 +24,7 @@
 
 
 
-# 🌐 Socials:
+# 🌐 Socials :
 
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -41,7 +41,7 @@
 <!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-adel-047174241) -->
 
                                                                                                                                                                
-# 💻 Tech Stack:
+# 💻 Tech Stack :
                                                                                                            
 <!-- ----------   Skills   ------------ -->
 <p align="left"> 
@@ -99,7 +99,7 @@
 -->
 
 
-# 📊 GitHub Stats:
+# 📊 GitHub Stats :
                                                                                                                   
 <!-- -------------  Most useage Language ------------ -->
 ![Top Languages ](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedAdel6&show_icons=true&theme=radical&border_radius=10&card_width=450) 

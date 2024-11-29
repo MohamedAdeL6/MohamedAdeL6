@@ -20,8 +20,9 @@
 
 <br>
 
-# 🌐 Connect with me: :
+### 🌐 Connect with me: :
 
+<h1 align="center">🌐 Connect with me:</h1> 
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>

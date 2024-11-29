@@ -25,21 +25,6 @@
 <a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="30" width="40" /></a>
 <a href="https://instagram.com/mahmoud_elezaaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_elezaaby" height="30" width="40" /></a>
 </p>
- <!-- 
-<a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
-  <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.facebook.com/profile.php?id=100006096937564" target="_blank">
-  <img src="https://img.shields.io/badge/-Mohamed%20Adel-1877F2?style=for-the-badge&logo=Facebook&logoColor=white"&label=" alt="Facebook" />
-</a>
-                                                                                                                                                    
-<a href="https://api.whatsapp.com/send/?phone=201153527576&text&type=phone_number&app_absent=0" target="_blank">
-  <img src="https://img.shields.io/badge/-Mohamed%20Adel-28a219?style=for-the-badge&logo=Whatsapp&logoColor=white"/>
-</a>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&Size=300)](https://www.linkedin.com/in/mohamed-adel-047174241)
--->
 
 
 # 💻 Tech Stack :

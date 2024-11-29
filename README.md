@@ -1,9 +1,9 @@
 
-<h2 align="center">
+<h1 align="center">
  Hi 👋, I'm Mohamed Adel
  <br>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=250&height=20&color=FF204E&vCenter=true&size=18" ></a>
-</h2> 
+</h1> 
 
 
 ### 💫 About Me :

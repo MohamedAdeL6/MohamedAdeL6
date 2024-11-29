@@ -8,7 +8,6 @@
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm constantly learning new frontend technologies. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I  &nbsp; &nbsp; &nbsp; &nbsp; have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
 #
-
 <!-- - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development. -->
 <!-- - ⚡ I can help with BackEnd & Front End. -->
 <!-- - 👨‍💻 All of my projects are available at https://github.com/MohamedAdeL6. -->
@@ -17,10 +16,7 @@
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 
-
-<br>
-
-# 🌐 Connect with me: 
+### 🌐 Connect with me: 
  
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -35,8 +31,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&Size=300)](https://www.linkedin.com/in/mohamed-adel-047174241)
-
-<br><br> 
+#
 
 
 # 💻 Tech Stack :

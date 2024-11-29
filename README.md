@@ -7,7 +7,7 @@
 # 💫 About Me :
 
 - 🏢 I'm a Front-end Web Developer 
-- 🌱 I'm constantly learning and exploring new technologies to improve my skills in frontend technologies. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
+- 🌱 I'm constantly learning new technologies to improve my skills in frontend technologies. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;
 
 <!-- - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development. -->

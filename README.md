@@ -20,10 +20,7 @@
 
 <br>
 
-<!-- ### 🌐 Connect with me: : -->
-
-<h3 align="center">
-🌐 Connect with me: 
+# 🌐 Connect with me: 
  
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
@@ -38,7 +35,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&Size=300)](https://www.linkedin.com/in/mohamed-adel-047174241)
-</h1>
+
 <br><br> 
 
 

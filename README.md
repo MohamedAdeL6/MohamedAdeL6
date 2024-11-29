@@ -3,7 +3,7 @@
 <h1 align="center"> 
  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=320&height=30&color=FF204E&vCenter=true&size=25" ></a>
 </h1> 
- <h3> 
+ 
 ### 💫 About Me :
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm constantly learning new frontend technologies. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I  &nbsp; &nbsp; &nbsp; &nbsp; have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
@@ -16,7 +16,7 @@
 <!-- - 🤝🏻 I am open to job offers. -->
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
-</h3>
+
 
 <br>
 

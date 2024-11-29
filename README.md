@@ -4,7 +4,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=320&height=30&color=FF204E&vCenter=true&size=25" ></a>
 </h1> 
  
-# 💫 About Me :
+### 💫 About Me :
 
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm constantly learning new frontend technologies. He is experienced in front-end technologies such as HTML5, CSS3, and JavaScript.I  &nbsp; &nbsp; &nbsp; &nbsp; have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
@@ -20,7 +20,7 @@
 
 <br>
 
-# 🌐 Socials :
+# 🌐 Connect with me: :
 
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>

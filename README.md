@@ -18,8 +18,14 @@
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 
-### 🌐 Connect with me: 
- 
+### 🌐 Connect with me:
+
+<p align="left">
+<a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="30" width="40" /></a>
+<a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="30" width="40" /></a>
+<a href="https://instagram.com/mahmoud_elezaaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_elezaaby" height="30" width="40" /></a>
+</p>
+ <!-- 
 <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="_blank">
   <img src="https://img.shields.io/badge/-Mohamed%20Adel-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
 </a>
@@ -33,6 +39,7 @@
 </a>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&Size=300)](https://www.linkedin.com/in/mohamed-adel-047174241)
+-->
 #
 
 

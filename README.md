@@ -2,7 +2,7 @@
 <h1 align="center">
  Hi 👋, I'm Mohamed Adel
  <br>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=320&height=20&color=FF204E&vCenter=true&size=18" ></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=300&height=20&color=FF204E&vCenter=true&size=18" ></a>
 </h1> 
 
 

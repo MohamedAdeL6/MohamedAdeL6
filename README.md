@@ -12,7 +12,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elezaaby&label=Profile%20views&color=0e75b6&style=flat" alt="elezaaby" /> </p>
 
 - 🏢 I'm a Front-end Web Developer 
-- 🌱 I'm learning new frontend technologies. I'm &nbsp; &nbsp; experienced in front-end technologies such as HTML5, &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSS3, and JavaScript. I have also developed and &nbsp; &nbsp; &nbsp; &nbsp; maintained various JavaScript applications and have &nbsp; &nbsp; exceptional knowledge of React.js and Next.js .
+- 🌱 I'm learning new frontend technologies. I'm &nbsp; &nbsp; experienced in front-end technologies such as HTML5, &nbsp; &nbsp; &nbsp; CSS3, and JavaScript. I have also developed and &nbsp; &nbsp; &nbsp; &nbsp; maintained various JavaScript applications and have &nbsp; &nbsp;&nbsp; exceptional knowledge of React.js and Next.js .
 #
 <!-- - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development. -->
 <!-- - ⚡ I can help with BackEnd & Front End. -->

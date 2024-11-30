@@ -2,14 +2,14 @@
 <h1 align="center">
  Hi 👋, I'm Mohamed Adel
  <br>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=250&height=20&color=FF204E&vCenter=true&size=18" ></a>
+ <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=250&height=20&color=FF204E&vCenter=true&size=18" ></a>
 </h1> 
 
 
 ### 💫 About Me :
 <p><img align='right' alt='ciding' width='380' src="https://github-readme-streak-stats.herokuapp.com/?user=elezaaby&" alt="elezaaby" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=elezaaby&label=Profile%20views&color=0e75b6&style=flat" alt="elezaaby" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
 
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .

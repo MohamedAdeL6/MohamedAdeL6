@@ -5,7 +5,7 @@
 </h1>
 
 ### 💫 About Me : 
-<p><img align='right' alt='ciding' width='350' src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdeL6&" alt="MohamedAdeL6" /></p>
+<p><img align='right' alt='ciding' width='380' src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdeL6&" alt="MohamedAdeL6" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
 - 🏢 I'm a Front-end Web Developer  <br>
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js . <br>
@@ -17,8 +17,6 @@
 #
 
 ### 💻 Tech Stack :                                                                                                        
-<!-- ----------   Skills   ------------ -->
-<p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
 </a>&nbsp;&nbsp;&nbsp;

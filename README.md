@@ -13,9 +13,10 @@
 
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
-- 🌐 Connect with me: &nbsp; &nbsp; <a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="16" width="20" /></a> &nbsp; &nbsp; &nbsp; 
-<a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="16" width="20" /></a> &nbsp; &nbsp; &nbsp; 
-<a href="https://instagram.com/mahmoud_elezaaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_elezaaby" height="16" width="20" /></a>
+- 🌐 Connect with me: &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-adel" height="16" width="20" /></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://www.facebook.com/profile.php?id=100006096937564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.adel" height="16" width="20" /></a> &nbsp; &nbsp; &nbsp; 
+<a href="01153527576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mahmoud_elezaaby" height="16" width="20" /></a>
+<a href="01153527576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instgram.svg" alt="mahmoud_elezaaby" height="16" width="20" /></a>
 
   
 #

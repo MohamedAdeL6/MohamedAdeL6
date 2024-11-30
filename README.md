@@ -96,7 +96,7 @@
 <br>
 
 <!-- ------- Start Readme stats ------ -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdel6&theme=radical&border_radius=10)&nbsp; 
+<!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MohamedAdel6&theme=radical&border_radius=10)&nbsp; -->
 
 <br>
 

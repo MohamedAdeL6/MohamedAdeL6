@@ -7,14 +7,14 @@
 
 
 ### 💫 About Me :
-<h1>
+
 <p><img align='right' alt='ciding' width='380' src="https://github-readme-streak-stats.herokuapp.com/?user=elezaaby&" alt="elezaaby" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elezaaby&label=Profile%20views&color=0e75b6&style=flat" alt="elezaaby" /> </p>
 
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
- </h1>
+ <h1></h1>
 <!-- - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development. -->
 <!-- - ⚡ I can help with BackEnd & Front End. -->
 <!-- - 👨‍💻 All of my projects are available at https://github.com/MohamedAdeL6. -->

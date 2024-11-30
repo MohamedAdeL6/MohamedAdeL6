@@ -4,8 +4,6 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=250&height=20&color=fb8c00&vCenter=true&size=18" ></a>
 </h1>
 
-#
-
 ### 💫 About Me : 
 <p><img align='right' alt='ciding' width='380' src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdeL6&" alt="MohamedAdeL6" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
@@ -15,6 +13,8 @@
 <a href="https://www.facebook.com/profile.php?id=100006096937564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.adel" height="16" width="20" /></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://wa.me/01153527576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohamed-adel" height="16" width="20" /></a>  &nbsp; &nbsp; &nbsp;
 <a href="https://www.instagram.com/mohamed2482adel/?igsh=YzljYTk1ODg3Zg%3D%3D&fbclid=IwY2xjawG3zoFleHRuA2FlbQIxMAABHf4Yd8cjW5YBy3fx3LnlUthVVtL7MpA2WWVt93HnK4M4SNNiZ5fE9FSnKw_aem_r0_ehMtKG9WSWRr_9KU-UA#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed-adel" height="16" width="20" /></a>
+
+#
 
 ### 💻 Tech Stack :                                                                                                        
 <!-- ----------   Skills   ------------ -->

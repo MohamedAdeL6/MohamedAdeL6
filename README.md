@@ -7,6 +7,8 @@
 
 
 ### 💫 About Me :
+<p><img align='right' alt='ciding' width='450' src="https://github-readme-streak-stats.herokuapp.com/?user=elezaaby&" alt="elezaaby" /></p>
+
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have &nbsp; &nbsp; &nbsp; &nbsp;   also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
 #

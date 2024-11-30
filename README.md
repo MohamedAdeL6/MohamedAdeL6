@@ -13,9 +13,9 @@
 
 - 🏢 I'm a Front-end Web Developer 
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js .
-- 🌐 Connect with me: &nbsp; &nbsp; <a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="18" width="20" /></a> &nbsp; &nbsp; &nbsp; 
-<a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="25" width="30" /></a> &nbsp; &nbsp; &nbsp; 
-<a href="https://instagram.com/mahmoud_elezaaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_elezaaby" height="25" width="30" /></a>
+- 🌐 Connect with me: &nbsp; &nbsp; <a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="15" width="18" /></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="15" width="18" /></a> &nbsp; &nbsp; &nbsp; 
+<a href="https://instagram.com/mahmoud_elezaaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_elezaaby" height="15" width="18" /></a>
 
   
 #

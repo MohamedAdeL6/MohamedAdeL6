@@ -17,9 +17,7 @@
 <!-- - 🤝🏻 I am open to job offers. -->
 <!-- - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee. -->
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
-
 ### 🌐 Connect with me:
-
 <p align="left">
 <a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="30" width="40" /></a>
@@ -28,8 +26,7 @@
 
 #
 
-# 💻 Tech Stack :
-                                                                                                           
+### 💻 Tech Stack :                                                                                                        
 <!-- ----------   Skills   ------------ -->
 <p align="left"> 
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">

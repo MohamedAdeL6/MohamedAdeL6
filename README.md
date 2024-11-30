@@ -48,4 +48,8 @@
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="30" height="30"/> 
 </a>&nbsp;&nbsp;&nbsp;
-</p>
+
+<a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/github.svg" alt="redux" width="30" height="30"/> 
+</a>&nbsp;&nbsp;&nbsp;
+

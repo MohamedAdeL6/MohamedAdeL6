@@ -19,7 +19,7 @@
 <!-- - 👨‍💻 Check out my portfolio at (.....) / to see some of the projects I've worked on. -->
 ### 🌐 Connect with me:
 <p align="left">
-<a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="25" width="30" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
+&nbsp; &nbsp; <a href="https://linkedin.com/in/mahmoud-elezaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud-elezaby" height="25" width="30" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://fb.com/mahmoud.elezaby.790" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud.elezaby.790" height="25" width="30" /></a> &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="https://instagram.com/mahmoud_elezaaby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahmoud_elezaaby" height="25" width="30" /></a>
 </p>

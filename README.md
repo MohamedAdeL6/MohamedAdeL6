@@ -5,8 +5,8 @@
 </h1>
 
 ### 💫 About Me : 
+<p><img align='right' alt='ciding' width='380' src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdeL6&" alt="MohamedAdeL6" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
 - 🏢 I'm a Front-end Web Developer  <br>
 - 🌱 I'm learning new frontend technologies. I'm experienced in front-end technologies such as HTML5, CSS3, and JavaScript. I have also developed and maintained various JavaScript applications and have exceptional knowledge of React.js and Next.js . <br>
 - 🌐 Connect with me: &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-adel" height="16" width="20" /></a> &nbsp; &nbsp; &nbsp; 

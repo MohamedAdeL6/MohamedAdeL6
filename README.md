@@ -7,7 +7,7 @@
 
 
 ### 💫 About Me :
-<p><img align='right' alt='ciding' width='420' src="https://github-readme-streak-stats.herokuapp.com/?user=elezaaby&" alt="elezaaby" /></p>
+<p><img align='right' alt='ciding' width='390' src="https://github-readme-streak-stats.herokuapp.com/?user=elezaaby&" alt="elezaaby" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elezaaby&label=Profile%20views&color=0e75b6&style=flat" alt="elezaaby" /> </p>
 

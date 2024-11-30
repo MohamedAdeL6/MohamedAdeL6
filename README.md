@@ -4,7 +4,7 @@
  <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.herokuapp.com/?lines=Front-end%20Web%20developer;&width=250&height=20&color=fb8c00&vCenter=true&size=18" ></a>
 </h1>
 
-### 💫 About Me :  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
+### 💫 About Me :  
 <p><img align='right' alt='ciding' width='360' src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedAdeL6&" alt="MohamedAdeL6" /></p>
 
 - 🏢 I'm a Front-end Web Developer 🚀 from Egypt <br> 

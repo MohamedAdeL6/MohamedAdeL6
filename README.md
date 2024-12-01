@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
 - 🏢 I'm a Front-end Web Developer 🚀 from Egypt <br> 
 - 🌱 I'm learned front-end technologies such as HTML5, CSS3, JavaScript.<br> 
-- 🌱 I have exceptional knowledge of React.js and Next.js.<br><br>
+- 🌱 I have exceptional knowledge of React.js and Next.js.<br>
 - 🌐 Connect with me: &nbsp; &nbsp; <a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-adel" height="20" width="25" /></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://www.facebook.com/profile.php?id=100006096937564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.adel" height="20" width="25" /></a> &nbsp; &nbsp; &nbsp; 
 <a href="https://wa.me/01153527576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohamed-adel" height="20" width="25" /></a>  &nbsp; &nbsp; &nbsp;

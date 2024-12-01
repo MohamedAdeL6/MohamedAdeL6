@@ -9,7 +9,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MohamedAdeL6&label=Profile%20views&color=0e75b6&style=flat" alt="MohamedAdeL6" /> </p>
 - 🏢 I'm a Front-end Web Developer 🚀 from Egypt <br> 
 - 🌱 I'm learned front-end technologies such as HTML5, CSS3, JavaScript.<br> 
-- 🌱 I have exceptional knowledge of React.js and Next.js.<br>
+- 🌱 I have also developed various JavaScript applications.<br>
 - 🌱 I have exceptional knowledge of React.js and Next.js.<br>
 
 #

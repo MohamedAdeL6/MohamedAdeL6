@@ -16,16 +16,7 @@
 
 ### 🌐 Connect with me: 
 
-&nbsp; &nbsp; 
-<a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-adel" height="25" width="30" />
-</a> &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/profile.php?id=100006096937564" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.adel" height="25" width="30" />
-</a> &nbsp; &nbsp; &nbsp; <a href="https://wa.me/01153527576" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohamed-adel" height="25" width="30" />
-</a> &nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/mohamed2482adel/?igsh=YzljYTk1ODg3Zg%3D%3D&fbclid=IwY2xjawG3zoFleHRuA2FlbQIxMAABHf4Yd8cjW5YBy3fx3LnlUthVVtL7MpA2WWVt93HnK4M4SNNiZ5fE9FSnKw_aem_r0_ehMtKG9WSWRr_9KU-UA#" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed-adel" height="25" width="30" />
-</a>
+&nbsp; &nbsp;<a href="https://www.linkedin.com/in/mohamed-adel-047174241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-adel" height="25" width="30" /></a> &nbsp; &nbsp; &nbsp; <a href="https://www.facebook.com/profile.php?id=100006096937564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed.adel" height="25" width="30" /></a>&nbsp; &nbsp; &nbsp; <a href="https://wa.me/01153527576" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="mohamed-adel" height="25" width="30" /></a>&nbsp; &nbsp; &nbsp;<a href="https://www.instagram.com/mohamed2482adel/igsh=YzljYTk1ODg3Zg%3D%3D&fbclid=IwY2xjawG3zoFleHRuA2FlbQIxMAABHf4Yd8cjW5YBy3fx3LnlUthVVtL7MpA2WWVt93HnK4M4SNNiZ5fE9FSnKw_aem_r0_ehMtKG9WSWRr_9KU-UA#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed-adel" height="25" width="30" /></a>
 
 #
 ### 💻 Tech Stack :                                                                                                        
